@@ -164,13 +164,13 @@ These findings demonstrate the strong potential for expanding solar infrastructu
 
 ## ModelBuilder Workflow
 
-![Model Builder Workflow](Maps/ModelBuilderWporkflow.jpeg)
+![Model Builder Workflow](Maps/ModelBuilderWorkflow.jpeg)
 
 ## Solar Radiation Map
 ![Solar Radiation Map](Maps/Solar-Radiation.jpeg)
 
 ## GAP Map
-![GAP](Map/GAP.jpeg)
+![GAP](Maps/GAP.jpeg)
 
 ## Road and Powerlines Map
 ![Infrastructure Map](Maps/TIGER.jpeg)
