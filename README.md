@@ -126,6 +126,7 @@ GAP classifications describe conservation protection levels:
 
 Areas with fewer conservation restrictions were considered more suitable for solar development.
 
+
 ---
 
 # Weighted Overlay Analysis
@@ -161,17 +162,21 @@ These findings demonstrate the strong potential for expanding solar infrastructu
 
 # Maps
 
+## ModelBuilder Workflow
+
+![Model Builder Workflow](Maps/ModelBuilderWporkflow.jpeg)
+
 ## Solar Radiation Map
-![Solar Radiation Map](maps/solar_radiation_map.png)
+![Solar Radiation Map](Maps/Solar-Radiation.jpeg)
 
-## Slope Map
-![Slope Map](maps/slope_map.png)
+## GAP Map
+![GAP](Map/GAP.jpeg)
 
-## Infrastructure Distance Map
-![Infrastructure Map](maps/infrastructure_distance_map.png)
+## Road and Powerlines Map
+![Infrastructure Map](Maps/TIGER.jpeg)
 
 ## Final Solar Suitability Map
-![Final Suitability Map](maps/final_suitability_map.png)
+![Final Suitability Map](Maps/Suitability.jpeg)
 
 ---
 
@@ -194,7 +199,6 @@ These findings demonstrate the strong potential for expanding solar infrastructu
 ### Software
 
 - ArcGIS Pro
-- ArcGIS Spatial Analyst
 
 ---
 
@@ -204,10 +208,3 @@ This project demonstrates how GIS can support renewable energy planning by ident
 
 Spatial modeling approaches like this can assist policymakers, planners, and energy developers in expanding solar infrastructure efficiently and sustainably.
 
----
-
-# Sources
-
-Solar Energy Industries Association (SEIA)  
-United States Geological Survey (USGS)  
-Esri GIS Data Repository
